@@ -125,8 +125,8 @@ const Hero = () => {
             transition={{ delay: 1.2 }}
           >
             {[
-              { icon: <Github size={22} />, href: "https://github.com" },
-              { icon: <Linkedin size={22} />, href: "https://linkedin.com" },
+              { icon: <Github size={22} />, href: "https://github.com/soniya28gupta" },
+              { icon: <Linkedin size={22} />, href: "https://www.linkedin.com/in/soniya-gupta-952260296/" },
               { icon: <Mail size={22} />, href: "mailto:soniyagupta0228@gmail.com" }
             ].map((social, i) => (
               <motion.a

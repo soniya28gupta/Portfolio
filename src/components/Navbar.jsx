@@ -64,10 +64,10 @@ const Navbar = () => {
           </ul>
           
           <div className="flex items-center gap-5 pl-8 border-l border-white/10">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-all hover:scale-125">
+            <a href="https://github.com/soniya28gupta" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-all hover:scale-125">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-all hover:scale-125">
+            <a href="https://www.linkedin.com/in/soniya-gupta-952260296/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-all hover:scale-125">
               <Linkedin size={20} />
             </a>
           </div>
@@ -103,8 +103,8 @@ const Navbar = () => {
                 </a>
               ))}
               <div className="flex gap-6 mt-4 pt-6 border-t border-white/10">
-                <a href="https://github.com" className="text-gray-400 hover:text-accent-blue transition-colors"><Github size={24} /></a>
-                <a href="https://linkedin.com" className="text-gray-400 hover:text-accent-blue transition-colors"><Linkedin size={24} /></a>
+                <a href="https://github.com/soniya28gupta" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-accent-blue transition-colors"><Github size={24} /></a>
+                <a href="https://www.linkedin.com/in/soniya-gupta-952260296/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-accent-blue transition-colors"><Linkedin size={24} /></a>
                 <a href="mailto:soniyagupta0228@gmail.com" className="text-gray-400 hover:text-accent-blue transition-colors"><Mail size={24} /></a>
               </div>
             </div>

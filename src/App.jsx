@@ -10,6 +10,7 @@ import Contact from './components/Contact';
 import LoadingScreen from './components/LoadingScreen';
 import Stats from './components/Stats';
 import Certifications from './components/Certifications';
+import Achievements from './components/Achievements';
 import { ArrowUp } from 'lucide-react';
 
 const App = () => {
@@ -77,6 +78,7 @@ const App = () => {
             <Projects />
             <Education />
             <Certifications />
+            <Achievements />
             <Contact />
           </main>
 
