@@ -28,3 +28,5 @@ src/
 components/
 assets/
 public/
+<!-- YOLO test -->
+Updated on June 2026.
